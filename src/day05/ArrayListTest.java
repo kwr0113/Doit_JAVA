@@ -26,7 +26,6 @@ public class ArrayListTest {
 			book.showBookInfo();
 		}
 		
-
 	}
 
 }
