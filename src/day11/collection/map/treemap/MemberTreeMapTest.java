@@ -22,5 +22,4 @@ public class MemberTreeMapTest {
 		memberTreeMap.showAllMember();
 
 	}
-
 }
